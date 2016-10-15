@@ -29,37 +29,30 @@ highlighter: rouge
 disqus: vtorves
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: torves
+twitter: vtorves
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+#youtube: myyoutube
+spotify: vtorves
+github: vtorves
+medium: vtorves
+#vimeo: myvimeo
+email: vinicius@torves.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
-
+    vtorves:
+        name: Vinicius Torves
+        bio: software engineer, agilist passionate about solving problems and share knowledge.
+        external-image: true
+        picture: https://avatars0.githubusercontent.com/u/411852?v=3&s=466 #assets/images/profile.jpg
+        twitter: vtorves
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
