@@ -1,16 +1,16 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Vinicius Torves
+bio: software engineer, agilist passionate about solving problems and share knowledge.
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars0.githubusercontent.com/u/411852?v=3&s=466 #assets/images/profile.jpg
 
-url: http://koppl.in/indigo
+url: http://blog.torves.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,7 +26,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: vtorves
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
