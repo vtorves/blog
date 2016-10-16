@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: true
 picture: https://avatars0.githubusercontent.com/u/411852?v=3&s=466 #assets/images/profile.jpg
 
-url: http://blog.torves.com
+url: http://vinicius.torves.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -62,7 +62,7 @@ width: large
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
