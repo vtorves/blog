@@ -3,7 +3,7 @@ name: Vinicius Torves
 bio: software engineer, agilist passionate about solving problems and share knowledge.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Senior Full-Stack Ruby on Rails Developer. A blog about Ruby, Javascript, Agile Process.
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,6 +20,7 @@ highlighter: rouge
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UUA-66074723-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
