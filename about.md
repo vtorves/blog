@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.picture }})
-<p>I am a FullStack Developer with 7+ years with programming languages. I have experience in
+<p>I am a Full Stack Developer with 7+ years with programming languages. I have experience in
 both small and complex applications. </p>
 <p>I love VIM, GIT, XP, Agile, and Best Practices (BDD / TDD) to improve or create disruptive solutions. </p>
 
