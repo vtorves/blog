@@ -1,9 +1,9 @@
 # main text of home
 name: Vinicius Torves
-bio: software engineer, agilist passionate about solving problems and share knowledge.
+bio: Full Stack Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
 
 # twitter summary info
-description: Senior Full-Stack Ruby on Rails Developer. A blog about Ruby, Javascript, Agile Process.
+description: Full Stack Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
 
 # if it's an external image, update below for true
 # better with square images
@@ -46,7 +46,7 @@ email: vinicius@torves.com
 authors:
     vtorves:
         name: Vinicius Torves
-        bio: Software engineer, agilist passionate about solving problems and share knowledge.
+        bio: Full Stack Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
         external-image: true
         picture: https://avatars0.githubusercontent.com/u/411852?v=3&s=466 #assets/images/profile.jpg
         twitter: vtorves
@@ -64,7 +64,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
