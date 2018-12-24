@@ -7,6 +7,18 @@ layout: page
 both small and complex applications. </p>
 <p>I love VIM, GIT, XP, Agile, and Best Practices (BDD / TDD) to improve or create disruptive solutions. </p>
 
+<p>I am Full Stack Developer data-driven with strong skills in Ruby on Rails, Node, React that since the first contact delivers value to your business. I understand that money and time are precious, then I build solutions fast, scalable with quality.</p>
+
+<p>I have been developing software building software for Platform Ecommerce, Payment Gateway, Bank, Government, and too small projects in other segments. In past, I had the opportunity of being selected to incubate on University of reference in Brazil to build a project of the startup.</p>
+
+<p>2018, I also won the second prize at Hackathon of my Company, creating App that solved problems and had many integrations with API Facebook, Twitter, Tumblr and our gateway payment.</p>
+
+<p>2016, I participated voluntarily and won the second place in an innovation on the company that I work, building with Ruby on Rails and Javascript the solution that benefited in 88% the flow of work hundreds of customers and the internal teams of the company.</p>
+
+Thank you for interest and I look forward to talk with you ;)
+vinicius[at]torves[dot]com
+
+
 
 <h2>Skills</h2>
 
