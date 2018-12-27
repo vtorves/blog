@@ -3,9 +3,6 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.picture }})
-<p>I am a Full Stack Developer with 7+ years with programming languages. I have experience in
-both small and complex applications. </p>
-<p>I love VIM, GIT, XP, Agile, and Best Practices (BDD / TDD) to improve or create disruptive solutions. </p>
 
 <p>I am Full Stack Developer data-driven with strong skills in Ruby on Rails, Node, React that since the first contact delivers value to your business. I understand that money and time are precious, then I build solutions fast, scalable with quality.</p>
 
