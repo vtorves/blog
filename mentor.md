@@ -2,7 +2,7 @@
 title: Mentor
 layout: default
 ---
-<h2>Free Mentor</h2>
+<h2>Mentorship</h2>
 
 <p> If you want to change of career, improve your programming skills, or want to be part 
  of some open-source project but need a mentor to guide during the journey. Dont be afraid!
