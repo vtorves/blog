@@ -1,9 +1,11 @@
 # main text of home
 name: Vinicius Torves
-bio: Full Stack Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
+#bio: Full Stack Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
+title: Full Stack Developer Vinicius Torves
+description: A web developer specialized in front-end and back-end web development. Ruby on Rails, React, Javascript
 
-# twitter summary info
-description: Full Stack Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
+bio: Full Stack Software Developer, disciple, agile enthusiast, I love coffee, problems to solve and share knowledge.
+
 
 # if it's an external image, update below for true
 # better with square images
